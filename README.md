@@ -1,7 +1,7 @@
 # Employee Retention Analysis: Predicting Staff Turnover
 
 **Project Overview:** 
-I am building a machine learning pipeline (Random Forest and Decision Tree classifiers) to predict voluntary employee attrition across corporate workforce segments. The goal is to isolate the structural and behavioral burnout patterns of employees who leave the enterprise, allowing HR business partners to optimize talent retention and proactively address turnover risks.
+I am building a machine learning pipeline (Random Forest and Decision Tree classifiers) to predict voluntary employee attrition across corporate workforce segments. The goal is to isolate the structural and behavioral burnout patterns of employees who leave the enterprise, allowing HR business partners to optimize talent retention and proactively address turnover risks.[Employee_Retention_Analysis_Predicting_Staff_Turnover.ipynb](Employee_Retention_Analysis_Predicting_Staff_Turnover.ipynb)
 
 ### Model Evaluation & Selection Logic
 The predictive architecture was evaluated across linear baselines and non-linear ensemble pipelines. While simple Logistic Regression struggled to map complex, non-linear human behavioral boundaries (like sudden burnout spikes when an employee crosses a specific project or hourly ceiling), tree-based models handled the data thresholds with absolute precision.
